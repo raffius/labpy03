@@ -18,7 +18,7 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 B. Flowchart Program
 
-![1](https://user-images.githubusercontent.com/46749109/53216118-24a7b900-3686-11e9-9d09-512da648e987.jpg)
+![1](https://user-images.githubusercontent.com/46749109/53218066-40fb2400-368d-11e9-8a85-c51a84700f0f.jpg)
 
 
 C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
@@ -71,7 +71,7 @@ Setelah anda menegetahui Algoritma Dalam sebuah Program Maka Langkah Berikutnya 
 
 B. Flowchart Program
 
-![lat2 flow](https://user-images.githubusercontent.com/46749109/53216239-8ec05e00-3686-11e9-98b6-331e601f2f17.jpg)
+![lat2 flow](https://user-images.githubusercontent.com/46749109/53218089-5a9c6b80-368d-11e9-8289-dc92666b492e.jpg)
 
 
 C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
@@ -142,9 +142,10 @@ A. Algoritma Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengus
 
 8. selesai
 
+
 B. Flowchart Program1
 
-![lat3 flow](https://user-images.githubusercontent.com/46749109/53216367-e3fc6f80-3686-11e9-8205-681d45b1a04a.jpg)
+![lat3 flow](https://user-images.githubusercontent.com/46749109/53218115-73a51c80-368d-11e9-878b-adb1ff711f33.jpg)
 
 
 C. Program Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
