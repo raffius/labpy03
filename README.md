@@ -52,7 +52,7 @@ C. Program Untuk Menampilkan N Bilangan Acak Yang Lebih Kecil Dari 0.5
 
 D. Hasil
 
-![lat1 hasil](https://user-images.githubusercontent.com/46749109/53216200-6cc6db80-3686-11e9-8117-ae624799d31c.JPG)
+![lat11 hasil](https://user-images.githubusercontent.com/46749109/53217157-98979080-3689-11e9-8bbd-df9a1978e33f.JPG)
 
 
 Latihan 2
@@ -117,7 +117,7 @@ C. Program Untuk Menampilkan Bilangan Terbesar Dari N Buah Data Yang Dinputkan
 
 D. Hasil
 
-![lat2 hasil](https://user-images.githubusercontent.com/46749109/53216319-c0392980-3686-11e9-9b7c-fe24dcf42c40.JPG)
+![lat22 hasil](https://user-images.githubusercontent.com/46749109/53217207-c54ba800-3689-11e9-87c2-f96c8231c237.jpg)
 
 
 Program 1
